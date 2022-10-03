@@ -127,7 +127,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1280px) {
 			div#Idiom {
-				margin-top: 20px;
+				margin-top: 56px;
 			}
 			body, input, select, textarea {
 				font-size: 12pt;
